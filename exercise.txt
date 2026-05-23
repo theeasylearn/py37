@@ -1,0 +1,2 @@
+1) write a program to print your name, date of birth, gender, education, school, hobbies, email, instagram username, address etc 
+
