@@ -1,2 +1,13 @@
 1) write a program to print your name, date of birth, gender, education, school, hobbies, email, instagram username, address etc 
 
+2) create list and store your hobbies, weight, height into it and then print it 
+
+3) create tuple and store your family members name into it 
+
+4) create dictionary and store your details like 
+    name, age, gender, dob, weight, height, email, mobile into it 
+    and display it 
+    update name, 
+    update age 
+    remove email 
+    
