@@ -11,3 +11,9 @@
     update age 
     remove email 
     
+5) write a program to convert given grams into kilograms and remaining grams 
+6) write a program to convert given inches into feets and remaining inch
+7) write a program to convert given Meters into kilometer and remaining meters 
+
+8) # write a program to convert given 3 digit amount into words 
+8) # write a program to convert given 4 digit amount into words 
