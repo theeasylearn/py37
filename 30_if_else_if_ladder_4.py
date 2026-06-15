@@ -14,4 +14,23 @@
     4) calculate net income 
 '''
 monthly_income = int(input("Enter your monthly "))
-            
+annual_income = monthly_income * 12 
+if annual_income>=1200000 and annual_income<=1600000:
+    tax = (annual_income * 15) / 100
+elif annual_income>1600000 and annual_income<=2000000:
+    tax = (annual_income * 20) / 100
+elif annual_income>2000000 and annual_income<=2400000:
+    tax = (annual_income * 25) / 100
+elif annual_income>2400000:
+    tax = (annual_income * 30) / 100
+else:
+    tax = 0
+
+net_income = annual_income - tax
+ 
+print("Annual income ",annual_income)
+print("Tax ",tax)
+print("Net income",net_income)
+
+
+
