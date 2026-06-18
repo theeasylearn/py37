@@ -9,7 +9,6 @@ current = 1
 next = 1
 print(last,end=' ') 
 print(current,end=' ') 
-
 while next<987: 
     next = last + current 
     print(next,end=' ')

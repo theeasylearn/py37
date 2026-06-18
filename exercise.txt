@@ -98,15 +98,15 @@ while loop
 1)   100  95  90  85  80  75  70  65  60  ..... 0
 2)   1    8   27   125  ....... 1000
 3)   1    -8   27  -64  .....    1000
-4)   0    1   1   2   3   5   8   13  .... 100
 
-5) write a program to make sum of all digits 
-input : 12345 process =  1+2+3+4+5 = output : fifteen 
+5) write a program display amount into words 
+input : 12345 output : one two three four five 
 
 6) write a program to reverse given number 
 input: 12345 output : 54321
 
 7) write a program to check whether given number is armstrong no or not 
+153 -> 1x1x1 +  5x5x5 + 3x3x3 -> 1 + 125 + 27 -> 153
 8) write a program to check whether given number is perfect no or not 
 9) write a program to check whether given number is composite no or not 
 
