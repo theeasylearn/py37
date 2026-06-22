@@ -10,3 +10,5 @@ for number in list:
 print("total of whole list",total)
 average = total / len(list)
 print(f"Average = {average:.2f}",)
+# task 
+# findout total team score and lowest score and player
