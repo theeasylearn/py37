@@ -1,6 +1,6 @@
 score = {
     "Yashasvi_Jaiswal":4,
-    "Rhit_Sharma":48,
+    "Rohit_Sharma":48,
     "Shubman_Gill":154,
     "Ishan_Kishan":125,
     "Shreyas_Iyer":26,
