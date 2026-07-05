@@ -1,0 +1,115 @@
+Abarth
+Acura
+Aion
+Aiways
+Alfa Romeo
+Alpine
+Aston Martin
+Audi
+BAIC Motor
+Baojun
+Bentley Motors
+Bestune
+BMW
+Borgward
+Brilliance Auto
+Bugatti
+Buick
+BYD
+Cadillac
+Changan Automobile
+Chery
+Chevrolet
+Chrysler
+Citroën
+Cupra
+Dacia
+Daewoo
+Daihatsu
+Datsun
+De Tomaso
+Dodge
+Dongfeng Motor
+DS Automobiles
+Exeed
+FAW Group
+Ferrari
+Fiat
+Fisker
+Force Motors
+Ford
+Foton
+GAC Group
+Geely
+Genesis
+GMC
+Great Wall Motors
+Haval
+Honda
+Hongqi
+Hyundai
+Ineos Automotive
+Infiniti
+Isuzu
+Jaguar
+Jeep
+Jetour
+Karma Automotive
+Kia
+Koenigsegg
+Lada
+Lamborghini
+Lancia
+Land Rover
+Leapmotor
+Lexus
+Li Auto
+Lincoln
+Lotus Cars
+Lucid Motors
+Lynk & Co
+Mahindra & Mahindra
+Maruti Suzuki
+Maserati
+Mazda
+McLaren Automotive
+Mercedes-Benz
+MG Motor
+Mini
+Mitsubishi Motors
+NIO
+Nissan
+Opel
+Ora
+Pagani
+Peugeot
+Polestar
+Pontiac
+Porsche
+Proton
+Qoros
+Ram
+Renault
+Rimac
+Rivian
+Rolls-Royce Motor Cars
+Roewe
+Saab
+SAIC Motor
+Seat
+Škoda Auto
+Smart
+Subaru
+Suzuki
+Tata Motors
+Tesla
+Toyota
+UAZ
+VinFast
+Volkswagen
+Volvo Cars
+Wuling
+Xpeng
+Yulon
+Zeekr
+Zotye Auto
